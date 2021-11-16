@@ -51,7 +51,7 @@ class Orthoepy(QtWidgets.QDialog):
         self.right_answers = right_answers_ort
         self.wrong_answers = wrong_answers_ort
         self.options = [self.right_answers[0], self.wrong_answers[0]]
-        self.options.shuffle
+        shuffle(self.options)
         self.rb1.setText(self.options[0])
         self.rb2.setText(self.options[1])
         self.rb3.setText('Пропустить')
