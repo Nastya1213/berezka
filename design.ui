@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>2259</width>
-    <height>1037</height>
+    <width>1174</width>
+    <height>564</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -46,47 +46,47 @@
           </widget>
          </item>
          <item>
-          <widget class="QPushButton" name="test_60">
-           <property name="sizePolicy">
-            <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
-             <horstretch>0</horstretch>
-             <verstretch>0</verstretch>
-            </sizepolicy>
-           </property>
-           <property name="font">
-            <font>
-             <family>Z003</family>
-             <pointsize>32</pointsize>
-            </font>
-           </property>
-           <property name="text">
-            <string>Тест на грамотность</string>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QPushButton" name="test_orthoepy">
-           <property name="sizePolicy">
-            <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
-             <horstretch>0</horstretch>
-             <verstretch>0</verstretch>
-            </sizepolicy>
-           </property>
-           <property name="font">
-            <font>
-             <family>Z003</family>
-             <pointsize>32</pointsize>
-            </font>
-           </property>
-           <property name="text">
-            <string>Тест на орфоэпию</string>
-           </property>
-          </widget>
-         </item>
-         <item>
           <layout class="QVBoxLayout" name="verticalLayout_2">
            <item>
-            <widget class="QPushButton" name="pushButton">
+            <widget class="QPushButton" name="test_60">
+             <property name="sizePolicy">
+              <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+               <horstretch>0</horstretch>
+               <verstretch>0</verstretch>
+              </sizepolicy>
+             </property>
+             <property name="font">
+              <font>
+               <family>Z003</family>
+               <pointsize>32</pointsize>
+              </font>
+             </property>
+             <property name="text">
+              <string>Тест на грамотность</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QPushButton" name="test_orthoepy">
+             <property name="sizePolicy">
+              <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+               <horstretch>0</horstretch>
+               <verstretch>0</verstretch>
+              </sizepolicy>
+             </property>
+             <property name="font">
+              <font>
+               <family>Z003</family>
+               <pointsize>32</pointsize>
+              </font>
+             </property>
+             <property name="text">
+              <string>Тест на орфоэпию</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QPushButton" name="test_doubled_n">
              <property name="sizePolicy">
               <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
                <horstretch>0</horstretch>
@@ -119,7 +119,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>2259</width>
+     <width>1174</width>
      <height>30</height>
     </rect>
    </property>
